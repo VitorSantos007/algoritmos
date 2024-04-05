@@ -1,0 +1,21 @@
+ENUNCIADO E
+Elabore um algoritmo para facilitar a pesquisa de alistamento militar, recebendo se a pessoa pertence ao genêro masculino e se é maior de 18 anos, caso estas informações forem verdadeiras declare que a pessoa pode fazer o alistamento
+
+
+Levantamento requisitos E
+-Perguntar "Você nasceu com o genêro masculino?"
+-Perguntar "Você tem mais de 18 anos?"
+-Apresentar respostas SIM/NÃO para estas perguntas
+-Concluir que pode começar o alistamento caso forem positivas
+
+
+-----------------------------------------------------------------------------------------------------
+ENUNCIADO OU
+Alguns alunos durante um trabalho de escola precisavam fazer uma pesquisa de campo para perguntar sobre a frequência dos alunos na escola. Elabore um algoritmo que ajude os alunos para realizar esta pesquisa de campo, tendo como base a pergunta se ela quer ir para a escola e se é obrigada, concluindo no final se ela vai.
+
+
+Levantamento requisitos OU
+-Perguntar "Você quer ir a escola?"
+-Perguntar "Você é obrigado a ir para escola?"
+-Apresentar respostas SIM/NÃO
+-Concluir se a pessoa que responde vai a escola de acordo com a resposta dela
