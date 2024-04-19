@@ -1,0 +1,3 @@
+Inicialização do tutorial de instalação do programa VS Code em sua máquina.
+A partir deste tutorial será de relevância para quando necessário a instalação do VS Code.
+Execute os passos para instalar o VS Code.
