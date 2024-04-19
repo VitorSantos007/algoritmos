@@ -1,3 +1,4 @@
 Inicialização do tutorial de instalação do programa VS Code em sua máquina.
 A partir deste tutorial será de relevância para quando necessário a instalação do VS Code.
 Execute os passos para instalar o VS Code.
+O Visual Studio Code é um editor de código-fonte leve, mas poderoso, que é executado em sua área de trabalho e está disponível para Windows, macOS e Linux. Ele vem com suporte embutido para JavaScript, TypeScript e Node.js e tem um rico ecossistema de extensões para outras linguagens e tempos de execução (como C ++, C, Java, Python, PHP, Go, .NET).
