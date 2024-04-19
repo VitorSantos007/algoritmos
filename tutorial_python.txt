@@ -17,3 +17,14 @@ Depois da escolha da versão desejada, clique para fazer o download e o local on
 Após o download completo, procure ele em seu explorador de arquivos e quando achar o arquivo executável, execute ele para concluir a instalação.
 
 Após os seguir os passos e terminal o tutorial a instalação estará completa.
+
+
+O Virtualenv é uma ferramenta essencial para desenvolvedores de Python, pois permite criar e gerenciar ambientes virtuais isolados. Esses ambientes virtuais são úteis para manter as dependências de um projeto Python separadas umas das outras, evitando conflitos e facilitando a portabilidade do código. Ao desenvolver projetos Python, é comum lidar com diferentes versões de bibliotecas e dependências. Essas versões podem ser incompatíveis entre si, o que pode causar conflitos e erros difíceis de solucionar, ao utilizar o Virtualenv, você pode isolar as dependências de cada projeto em ambientes virtuais separados. Isso significa que cada projeto terá suas próprias versões de bibliotecas instaladas, sem interferir nas demais.
+Sendo assim, para conseguir instalar e configurar o VirtualLenv, execute os passos abaixo.
+Confira se tem o Virtualenv instalado em seu sistema. Caso não tenha, você pode instalá-lo usando o comando pip install virtualenv no Python.
+Após a instalação, crie um novo diretório para o seu projeto e navegue até ele usando o terminal ou prompt de comando.
+Dentro do diretório do projeto, crie um novo ambiente virtual usando o comando virtualenv nome_ambiente.
+Após a criação do ambiente virtual, ative-o utilizando o comando apropriado para o sistema operacional em que você está trabalhando.
+ -Para sistemas Unix/Linux/macOS, utilize o comando source nome_ambiente/bin/activate.
+ -Para Windows, utilize o comando nome_ambiente\Scripts\activate.
+Agora o VirtuaLenv está ativado dentro do seu projeto Python.
