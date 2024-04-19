@@ -1,5 +1,5 @@
 Inicialização do tutorial de instalação do programa Python em sua máquina.
-
+Se você é novo em programação ou um desenvolvedor experiente, é fácil aprender e usar Python. Python é uma linguagem de programação que permite trabalhar rapidamente e integrar sistemas de forma mais eficaz.
 A partir deste tutorial será de relevância para quando necessário a instalação do Python.
 Execute os passos para instalar o Python.
 
