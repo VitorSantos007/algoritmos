@@ -8,3 +8,7 @@ Execute os passos para instalar o Python.
 A partir deste tutorial será de relevância para quando necessário a instalação do Python.
 Execute os passos para instalar o Python.
 >>>>>>> 43764b9f9fb9d59a029664ce2fef3441c30feee4
+Em sua máquina entre um navegador com acesso a internet, pesquise pelo site https://www.python.org
+Dentro do site, logo na tela de exibição, existe uma aba chamada "Downloads", clique sobre ela e acesse ela.
+Nessa aba de Downloads bem de cara tem como instalar a versão mais recente do Python no Windows. Caso sua máquina não está com sistema operacional Windows, não será um ploblema, pois o site apresenta versões de sistemas operacionais diferentes do Windows.
+Caso, por algum motivo, a versão mais recente não seja o que procuras, existe a possibilidade de procura de uma versão anterior ou até testar um lançamento de uma nova versão.
