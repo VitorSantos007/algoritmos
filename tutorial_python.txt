@@ -12,3 +12,8 @@ Em sua máquina entre um navegador com acesso a internet, pesquise pelo site htt
 Dentro do site, logo na tela de exibição, existe uma aba chamada "Downloads", clique sobre ela e acesse ela.
 Nessa aba de Downloads bem de cara tem como instalar a versão mais recente do Python no Windows. Caso sua máquina não está com sistema operacional Windows, não será um ploblema, pois o site apresenta versões de sistemas operacionais diferentes do Windows.
 Caso, por algum motivo, a versão mais recente não seja o que procuras, existe a possibilidade de procura de uma versão anterior ou até testar um lançamento de uma nova versão.
+
+Depois da escolha da versão desejada, clique para fazer o download e o local onde ela deve ficar.
+Após o download completo, procure ele em seu explorador de arquivos e quando achar o arquivo executável, execute ele para concluir a instalação.
+
+Após os seguir os passos e terminal o tutorial a instalação estará completa.
