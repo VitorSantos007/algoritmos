@@ -7,3 +7,6 @@ Para começar o download em sua máquina, entre em um navegador com acesso a int
 Ao entrar no site, logo de cara, vai aparecer para fazer o download no Windowns. Caso sua máquina não está com sistema operacional Windows, não será um ploblema, pois o site apresenta versões de sistemas operacionais diferentes do Windows.
 Selecionando a versão de acordo com o sistema operacional, clique para começar o download.
 Após o download completo, procure ele em seu explorador de arquivos e quando achar o arquivo executável, execute ele para concluir a instalação.
+Após o executável abrir, perguntará se você concorda com os termos, após concordar escolha o local onde os arquivos de instalação vão ficar e onde vão ficar os atalhos no menu iniciar.
+Na próxima página, perguntará sobre preferências de instalação como, atalho na área de trabalho ou abrir com Windows Explorer, é preferível deixar todos os campos selecionados, entretanto, avalie se os campos que NÃO estão selecionados devem ficar selecionados.
+Após isso, continue a instalação e quando terminar a instalação estará pronta
