@@ -1,0 +1,5 @@
+Tutorial Git Remote
+
+-Abra o prompt de comando e entre no diretório.
+- Para adicionar um novo controle remoto, use o comando git remote add no prompt de comando,juntamente com o nome que você quer dar ao repositório, no diretório em que o repositório está. Assim você irá criar uma direção do repositório remoto na máquina local.
+- Se você tentou adicionar um remoto com um nome que já existe no repositório local, use um nome diferente para o novo remoto.
